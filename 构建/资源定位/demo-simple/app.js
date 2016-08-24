@@ -1,0 +1,1 @@
+var img = __uri('img/list-1.png');
